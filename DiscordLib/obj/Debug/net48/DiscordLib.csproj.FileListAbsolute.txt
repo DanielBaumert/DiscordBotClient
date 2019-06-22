@@ -1,0 +1,12 @@
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Debug\net48\DiscordLib.csproj.CoreCompileInputs.cache
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Debug\net48\DiscordLib.AssemblyInfoInputs.cache
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Debug\net48\DiscordLib.AssemblyInfo.cs
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\bin\Debug\net48\DiscordLib.dll
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\bin\Debug\net48\DiscordLib.pdb
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Debug\net48\DiscordLib.dll
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Debug\net48\DiscordLib.pdb
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Debug\net48\DiscordLib.csprojAssemblyReference.cache
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\bin\Debug\net48\Se7en.dll
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\bin\Debug\net48\Se7en.pdb
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\bin\Debug\net48\Se7en.dll.config
+D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Debug\net48\DiscordLib.csproj.CopyComplete

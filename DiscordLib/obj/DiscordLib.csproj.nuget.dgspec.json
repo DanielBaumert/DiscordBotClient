@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\Develop\\CSharp\\DiscordBot\\DiscordLib\\DiscordLib.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\Develop\\CSharp\\DiscordBot\\DiscordLib\\DiscordLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Develop\\CSharp\\DiscordBot\\DiscordLib\\DiscordLib.csproj",
+        "projectName": "DiscordLib",
+        "projectPath": "D:\\Documents\\Develop\\CSharp\\DiscordBot\\DiscordLib\\DiscordLib.csproj",
+        "packagesPath": "C:\\Users\\0x9854\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Develop\\CSharp\\DiscordBot\\DiscordLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\System\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\0x9854\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\Documents\\Develop\\CSharp\\DiscordBot\\Se7en\\Se7en.csproj": {
+                "projectPath": "D:\\Documents\\Develop\\CSharp\\DiscordBot\\Se7en\\Se7en.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\Documents\\Develop\\CSharp\\DiscordBot\\Se7en\\Se7en.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Develop\\CSharp\\DiscordBot\\Se7en\\Se7en.csproj",
+        "projectName": "Se7en",
+        "projectPath": "D:\\Documents\\Develop\\CSharp\\DiscordBot\\Se7en\\Se7en.csproj",
+        "packagesPath": "C:\\Users\\0x9854\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Develop\\CSharp\\DiscordBot\\Se7en\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\System\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\0x9854\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.*, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
