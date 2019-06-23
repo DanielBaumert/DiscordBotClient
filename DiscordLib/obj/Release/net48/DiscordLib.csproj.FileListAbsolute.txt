@@ -1,3 +1,0 @@
-D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Release\net48\DiscordLib.csproj.CoreCompileInputs.cache
-D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Release\net48\DiscordLib.AssemblyInfoInputs.cache
-D:\Documents\Develop\CSharp\DiscordBot\DiscordLib\obj\Release\net48\DiscordLib.AssemblyInfo.cs

@@ -1,6 +1,0 @@
-D:\Documents\Develop\CSharp\DiscordBot\DiscordBot\obj\Release\net48\DiscordBot.csprojAssemblyReference.cache
-D:\Documents\Develop\CSharp\DiscordBot\DiscordBot\obj\Release\net48\DiscordBot.Form1.resources
-D:\Documents\Develop\CSharp\DiscordBot\DiscordBot\obj\Release\net48\DiscordBot.csproj.GenerateResource.cache
-D:\Documents\Develop\CSharp\DiscordBot\DiscordBot\obj\Release\net48\DiscordBot.csproj.CoreCompileInputs.cache
-D:\Documents\Develop\CSharp\DiscordBot\DiscordBot\obj\Release\net48\DiscordBot.AssemblyInfoInputs.cache
-D:\Documents\Develop\CSharp\DiscordBot\DiscordBot\obj\Release\net48\DiscordBot.AssemblyInfo.cs
